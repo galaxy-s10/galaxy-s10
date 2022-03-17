@@ -9,8 +9,8 @@ I'm galaxy-s10, a frontend deveploper.
 - ⚡ Fun fact: JavaScript
 
 <a href="https://github.com/galaxy-s10">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=galaxy-s10&show_icons=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaxy-s10&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galaxy-s10&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaxy-s10&layout=compact" />
 </a>
 
 ⭐️ From [galaxy-s10](https://github.com/galaxy-s10)
