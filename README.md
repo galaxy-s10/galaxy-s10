@@ -8,9 +8,9 @@ I'm galaxy-s10, a frontend deveploper.
 - 👨‍💻 All of my projects are available at https://www.hsslive.cn/works
 - ⚡ Fun fact: JavaScript
 
-<a href="https://github.com/galaxy-s10">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galaxy-s10&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaxy-s10&layout=compact" />
-</a>
+</div>
 
 ⭐️ From [galaxy-s10](https://github.com/galaxy-s10)
