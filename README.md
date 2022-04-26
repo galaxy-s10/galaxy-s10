@@ -1,6 +1,6 @@
-### Hi there I'm [galaxy-s10!](https://www.hsslive.cn)👋
+### Hi there👋
 
-I'm galaxy-s10, a frontend deveploper.
+I'm [galaxy-s10](https://www.hsslive.cn), welcome to my github
 
 <img  src="https://komarev.com/ghpvc/?username=galaxy-s10" />
 
