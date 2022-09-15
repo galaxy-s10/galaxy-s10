@@ -4,7 +4,7 @@ I'm [huangshuisheng](https://www.hsslive.cn), welcome to my github
 
 <img  src="https://komarev.com/ghpvc/?username=galaxy-s10" />
 
-- 🌱 I’m currently learning React,Vue3,Vite...
+- 🌱 I’m currently learning React,Vue,Vite...
 - 👨‍💻 All of my projects are available at https://www.hsslive.cn/works
 - ⚡ Fun fact: JavaScript
 
