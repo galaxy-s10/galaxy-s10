@@ -20,7 +20,7 @@ This is my npm package:
 
 <div>
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=galaxy-s10&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaxy-s10&layout=compact" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=galaxy-s10&layout=compact" />
 </div>
 
 ⭐️ From [galaxy-s10](https://github.com/galaxy-s10) <img  src="https://komarev.com/ghpvc/?username=galaxy-s10" />
