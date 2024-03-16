@@ -6,7 +6,7 @@ some project:
 
 | blog: [https://www.hsslive.cn](https://www.hsslive.cn)            | live: [https://live.hsslive.cn](https://live.hsslive.cn)        | npm registry: [https://registry.hsslive.cn](https://registry.hsslive.cn) |
 | ----------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| jenkins: [https://jenkins.hsslive.cn](https://jenkins.hsslive.cn) | project: [http://project.hsslive.cn](http://project.hsslive.cn) |                                                                          |
+| jenkins: [https://jenkins.hsslive.cn](https://jenkins.hsslive.cn) | project: [https://project.hsslive.cn](https://project.hsslive.cn) |                                                                          |
 
 npm package:
 
