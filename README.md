@@ -4,9 +4,9 @@ I'm huangshuisheng，welcome to my github！
 
 some project:
 
-| blog: [https://www.hsslive.cn](https://www.hsslive.cn)            | live: [https://live.hsslive.cn](https://live.hsslive.cn)        | npm registry: [https://registry.hsslive.cn](https://registry.hsslive.cn) |
+| blog: [https://www.hsslive.cn](https://www.hsslive.cn)            | live: [https://live.hsslive.cn](https://live.hsslive.cn)        | desk: [https://desk.hsslive.cn](https://desk.hsslive.cn)                 |
 | ----------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| jenkins: [https://jenkins.hsslive.cn](https://jenkins.hsslive.cn) | project: [http://project.hsslive.cn](http://project.hsslive.cn) |                                                                          |
+| jenkins: [https://jenkins.hsslive.cn](https://jenkins.hsslive.cn) | project: [http://project.hsslive.cn](http://project.hsslive.cn) | npm registry: [https://registry.hsslive.cn](https://registry.hsslive.cn) |
 
 npm package:
 
