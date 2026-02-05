@@ -1,6 +1,6 @@
 ### 你好！👋
 
-微信:shuisheng9905
+我好像是搞前端开发的（或者说是写页面的），联系微信:shuisheng9905
 
 <div>
 <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=galaxy-s10&show_icons=true" />
